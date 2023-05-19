@@ -1,5 +1,5 @@
 # Curso Digital: Git/Versionamento
-## Ada Tech | Santander Coders 2023 | Engenharia de Dados
+## Ada Tech | Santander Coders 2023
 
 ### Comandos Git:
 

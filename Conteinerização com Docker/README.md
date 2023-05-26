@@ -5,7 +5,11 @@
 
 **docker run -ti -p 8081:8081 nginx** -> Cria e roda um container na porta 8081 com a imagem nginx.
 
-**docker ps -a** -> Lista todos os containers criados e seus status.
+**docker ps -a** -> Lista todos os containers rodando.
+
+**docker images** -> Lista todas as imagens baixadas.
+
+**docker build -t my-app .** -> Construir a imagem, este comando necessiarimante precisa ser rodado na mesma pasta onde se encontra o dockerfile.
 
 ### Instruções Dockerfile
 

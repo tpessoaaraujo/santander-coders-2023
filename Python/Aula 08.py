@@ -36,7 +36,7 @@ print('Lista após o remove: ', lista)
 
 # Outros métodos
 
-print('Quantidade de números 2 na lista: ', lista.count(5))
+print('Quantidade de números 5 na lista: ', lista.count(5))
 
 print('Qual é o índice do elemento 12: ', lista.index(12))
 
